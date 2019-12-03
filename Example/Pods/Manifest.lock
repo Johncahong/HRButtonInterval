@@ -1,0 +1,16 @@
+PODS:
+  - HRButtonInterval (0.1.0)
+
+DEPENDENCIES:
+  - HRButtonInterval (from `../`)
+
+EXTERNAL SOURCES:
+  HRButtonInterval:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  HRButtonInterval: 33457695725b5ebd2fe7f56c39f5b94946876506
+
+PODFILE CHECKSUM: b2e92456536513b33c1bab5268664dbefc481b74
+
+COCOAPODS: 1.7.2

@@ -1,0 +1,6 @@
+framework module HRButtonInterval {
+  umbrella header "HRButtonInterval-umbrella.h"
+
+  export *
+  module * { export * }
+}

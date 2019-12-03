@@ -1,0 +1,6 @@
+use_frameworks!
+target 'HRButtonInterval_Tests' do
+  pod 'HRButtonInterval', :path => '../'
+  
+  
+end
